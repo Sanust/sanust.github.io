@@ -2,3 +2,5 @@ remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme
 markdown: kramdown
+title: "Sanust's Website"
+description: "Coding & Stories & Games"
